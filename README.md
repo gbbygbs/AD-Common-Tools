@@ -1,3 +1,3 @@
 # AD-Common-Tools
 
-Common Tools used in Active Directory Penetration Testing.
+Common tools used in Active Directory Penetration Testing.
